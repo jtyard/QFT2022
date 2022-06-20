@@ -29,11 +29,11 @@ Classical BV formalism = consider $Crit(S)$ in a derived manner.
 
 $Crit(S) = Graph(dS)$ where $dS : X \to T^*X$ with $0 : X \to T^*X$ the zero section.
 
-$$O(Crit(S)} = O(Graph(dS))\otimes_{O(T^*X)}) O(X)$$
+$$O(Crit(S)) = O(Graph(dS))\otimes_{O(T^*X)}) O(X)$$
 
 Derived critical locus is same but with derived tensor product replacing $O(X)$ with $O(\tilde X)$
 
-$$O(dCrit(S)} = O(Graph(dS))\otimes_{O(T^*X)}) O(\tilde X)$$?????
+$$O(dCrit(S)) = O(Graph(dS))\otimes_{O(T^*X)}) O(\tilde X)$$?????
 
 In coordinates, 
 $O(X) = C[x^i] = C[x^1, ... , x^n]$  $O(T^* X) = Sym_{O(X)}(T_X)$
