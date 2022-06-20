@@ -77,7 +77,8 @@ Facts:
 - If $X$ is $d$-oriented and $Y$ $n$-shifted symplectic then $Map(X,Y)$ is $(n-d)$-shifted symplectic.
 - $T^*$[?]...  couldn't read it
 - Fact: If M is compact oriented $d$-manifold then $M_B$ is $d$-oriented.  
-In particular, $Loc_G(M) = Map(M_B,B,G)$ is $(2-d)$-shifted. (B = Betti)
+In particular, $Loc_G(M) = Map(M_B,B,G)$ is 
+$(2-d)$-shifted. (B = Betti)
 - If $X$ is smooth proper CY $d$-fold then $X$ is $d$-oriented.  In particular, $Bun_G(X) = Map(X,BG)$ is $(2-d)$-shifted. (Algebraic category)
 - If X is smooth proper variety of dimension m, then $X_dR is 2m$-oriented so that $Flat_G(X) = Map(X_dR,BG)$ is $(2-2m)$-shifted
 - $X_Dol$ is $Higgs_G(X) = Map(X,???)$...
