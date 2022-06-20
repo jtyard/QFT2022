@@ -1,7 +1,7 @@
 # 3d gauge theory and elliptic stable envelopes
-$\def\Ell{\mathrm{Ell}}$ 
-$\def\pt{\mathrm{pt}}$
-$\def\Sym{\mathrm{Sym}}$
+$$\def\Ell{\mathrm{Ell}}$$ 
+$$\def\pt{\mathrm{pt}}$$
+$$\def\Sym{\mathrm{Sym}}$$
 
 $\Ell(\pt/G) = degree-0 semistable $G$-bundles onthe dual elliptic curve $E^\vee$.  Covariant in $G$ and $E$.
 
