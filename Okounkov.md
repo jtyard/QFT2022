@@ -11,10 +11,10 @@ $\Ell(\pt/U(r)) = \Sym^r E$ elliptic Chern roots
 
 This is supposed to be deep: Thom sheaf $\Theta(-V)$ is a nontrivial line bundle.  
 
-Elliptic cohomology is built out of sections of line bundles
+Elliptic cohomology is built out of sections of line bundles on sheaves.  But those sheaves have nontrivial cohomology.
 
 
 
 Degree of a line bundle on $E^n$ is not a number but a symmetric integer matrix in $\Sym^2 Z^n$.
 
-Holy shit it is really looking like 
+On Thursday he will talk about Kahler varieties.
