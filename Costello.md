@@ -85,3 +85,21 @@ So the phase space is $T^* = Gr_G$.
 
 We know from geometric Langlands that sheaves on the affine grassmannian should make an appearance.  It can be derived in this context.
 
+## To quantize
+First pass, might look at $\Hol(\Gr_G)$.  Unfortunately this is incorrect.  $T \Gr_G = z^{-1} g[z^{-1}]$ and 
+$\Hol(T\Gr_G) \sim S^*((z^{-1} g[z^{-1}])^*)$  
+$z^{-1}$ has spin 1 so you get a whole tower of representations of the wrong spin.
+
+Correct answer: Holomorphic distributions = $\Hol(\Gr_G)^*$  Old theorem of S Kumar that if we twist by a line bundle then this is the vacuum module for Kac-Moody.
+
+## What happens in the bulk???
+
+Now we add matter in the representation $R$.  BFN (Braverman-Finkelbert-Nakajima) worked this out. 
+
+Local operators = Hilbert space on $S^2$.  Draws a tube from left disc $D_L$ to right disc $D_R$ with an operator inserted in the middle.  Phase space: $A$ field???, Hol bundle on $D_L$ and Hol bundle on $D_R$.  Gete an isomorphicm between these on the boundaries $\partial D_L = \partial D_R$.  Assume isom is on $D_L^\times$ with finite order of poles.
+
+Similarly for the matter, have $\ph_L$ a holomorphic section of the associated $R$-bundle on $D_L$ and $\ph_R$ a holomorphic bundle on $D_R$.  So $\ph_L = \ph_R$ on the punctured disc once we have moved the isomorphism between the punctured boundaries $D_L^\times$ and $D_R^\times$.  If we trivialize $A$ on $D_L$ this data is the "BFN space of triples" (on the Coulomb branch??).  Ultimately find phase space is the cotangent bundle to the space of BFN triples $T^*($BFN triples$)//G[[z]]$. 
+
+## 3d N=4
+Rules will tell you to take homology of BFN triples $/ G[[z]]$
+- Gives you the correct definition of the Coulomb branch!
