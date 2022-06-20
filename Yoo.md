@@ -103,16 +103,16 @@ In the sense of Atiyah-Singer.
 - $Z(-,B_1,B_2)$ = space of open string states satisfying boundary conditions $B_1,B_2 \in Z(pt)$ at the ends.
 
 Note 
-- $Z(S^{d-1}) \in E_d-alg(Vect_C)$ = the space of point operators
+- $Z(S^{d-1}) \in E_d$-alg$(Vect_C)$ = the space of point operators
 - $Z(S^{d-2}) \in E_{d-1}-alg(Cat_C)$ = the space of line operators 
 - $Z(S^1)$ = space of closed string states 
 
-Ex: B-model with target X
-- $Z_B(pt) = Coh(X)$ (derived category of cohreent sheaves on X)
-- $Z_B(X^1) = HH_*(Coh(X)) = \Omega(X)$ (differential forms on X)
+Ex: B-model with target $X$
+- $Z_B(pt) = Coh(X)$ (derived category of cohreent sheaves on $X$)
+- $Z_B(X^1) = HH_*(Coh(X)) = \Omega(X)$ (differential forms on $X$)
 
 Ex: CS Theory
-- $Z_{CS}(S1) \in E_2-alg(Cat_C)$ = braided monoidal categories = category of line operators of CS theory
+- $Z_{CS}(S1) \in E_2$-alg$(Cat_C)$ = braided monoidal categories = category of line operators of CS theory
 
 
 ## From BV to TQFT
@@ -128,8 +128,8 @@ For example,
 Ex: B-model 
 - $EOM(\Sigma) = Map(\Sigma_B,T^*[1]X)$
 - $EOM(pt) = T^*[1]X \to Coh(X)$ (because it is 1-shifted you should expect to see a category not functions)
-- $EOM(S^1) = Map(S^1_B,T^*[1]X) = T^*(T[-1]X) \to O(T[-1]X) = \Omega(X)$
+- $EOM(S^1) = Map(S^1_B,T^*[1]X) = T^*(T[-1]X) \simeq O(T[-1]X) = \Omega(X)$
 
 
-This sort of machinery will not help answer what is Z_CS(pt).  It is hard because 
+This sort of machinery will not help answer what is $Z_{CS}(pt)$.  It is hard because 
  $EOM_{CS}(pt) = BG$
