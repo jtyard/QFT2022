@@ -100,7 +100,7 @@ $Map(M_B^3,X)$ is Rozansky-Witten theory $Z/2$-graded.
 In the sense of Atiyah-Singer.  
 - $d=2$, $Z: Bord_2 \to Vect_C$ classified by commutative (can move holes around) Frobenius algebras $Z(S')$ (plugging together pants)
 - Extended TQFT: $Bord_2 \to Cat_C$ $Z(pt)$ = category of boundary conditions
-- $Z(-,B_1,B_2) = space of open string states satisfying boundary conditions $B_1,B_2 \in Z(pt)$ at the ends.
+- $Z(-,B_1,B_2)$ = space of open string states satisfying boundary conditions $B_1,B_2 \in Z(pt)$ at the ends.
 
 Note 
 - $Z(S^{d-1}) \in E_d-alg(Vect_C)$ = the space of point operators
@@ -112,7 +112,7 @@ Ex: B-model with target X
 - $Z_B(X^1) = HH_*(Coh(X)) = \Omega(X)$ (differential forms on X)
 
 Ex: CS Theory
-- Z_{CS}(S1) \in E_2-cate = braided monoidal categories = category of line operators of CS theory
+- $Z_{CS}(S1) \in E_2-alg(Cat_C)$ = braided monoidal categories = category of line operators of CS theory
 
 
 ## From BV to TQFT
