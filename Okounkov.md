@@ -3,9 +3,10 @@
     \def\Ell{\mathrm{Ell}}
     \def\pt{\mathrm{pt}}
     \def\Sym{\mathrm{Sym}}
+    \def\Sym{\mathrm{Pic}}
 \)
 
-$\Ell(\pt/G) = degree-0 semistable $G$-bundles onthe dual elliptic curve $E^\vee$.  Covariant in $G$ and $E$.
+$\Ell(\pt/G) =$ degree-0 semistable $G$-bundles onthe dual elliptic curve $E^\vee$.  Covariant in $G$ and $E$.
 
 $\Ell(\pt/U(1)) = \Pic_0(E^\vee) = $
 
