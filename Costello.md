@@ -2,7 +2,7 @@
 
 Usual pattern: mysterious duality between SQFTs maps to a math conjecture.  
 
-$Spin(3,1) = SL_2(C)$.  Spin representation $S = \bC^2$ and vector representation $Sym^2 S$.
+$\mathrm{Spin}(3,1) = SL_2(C)$.  Spin representation $S = \bC^2$ and vector representation $Sym^2 S$.
 
 
 $Q^2 = \frac 12 [Q,Q] = 0$ means it is a dirfferential.  Twisting replaces everything in the QFT by its $Q$-cohomology.
@@ -103,3 +103,7 @@ Similarly for the matter, have $\ph_L$ a holomorphic section of the associated $
 ## 3d N=4
 Rules will tell you to take homology of BFN triples $/ G[[z]]$
 - Gives you the correct definition of the Coulomb branch!
+
+Ben noted that everything was N=2 until this last part.  
+
+The N=4 theory has an N=2 twist that knows about both the Coulomb and Higgs branches.
