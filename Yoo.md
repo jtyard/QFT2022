@@ -128,8 +128,7 @@ For example,
 Ex: B-model 
 - $EOM(\Sigma) = Map(\Sigma_B,T^*[1]X)$
 - $EOM(pt) = T^*[1]X \to Coh(X)$ (because it is 1-shifted you should expect to see a category not functions)
-- $EOM(S^1) = Map(S^1_B,T^*[1]X) \simeq$
-$T^*(T[-1]X) \to O(T[-1]X) = \Omega(X)$
+- $EOM(S^1) = Map(S^1_B,T^*[1]X) = T^*(T[-1]X) \to O(T[-1]X) = \Omega(X)$
 
 
 This sort of machinery will not help answer what is Z_CS(pt).  It is hard because 
