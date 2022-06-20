@@ -123,176 +123,169 @@
 % Declare math operators
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\DeclareMathOperator{\real}{Re}
-\DeclareMathOperator{\imag}{Im}
 
-\DeclareMathOperator{\isom}{Isom}
-\DeclareMathOperator{\Isom}{Isom}
-\DeclareMathOperator{\dist}{dist}
-\DeclareMathOperator{\diam}{diam}
-
-\DeclareMathOperator{\Var}{Var}
-\DeclareMathOperator{\ord}{ord}
-
-\DeclareMathOperator{\arctanh}{arctanh}
-\DeclareMathOperator{\arccoth}{arccoth}
-\DeclareMathOperator{\Tan}{Tan}
-
-\DeclareMathOperator{\im}{im}
-\DeclareMathOperator{\coim}{coim}
-\DeclareMathOperator{\coker}{coker}
-\DeclareMathOperator{\Frac}{Frac}
-\DeclareMathOperator{\Mor}{Mor}
-\DeclareMathOperator{\Hom}{Hom}
-\DeclareMathOperator{\End}{End}
-\DeclareMathOperator{\Ad}{Ad}
-\DeclareMathOperator{\ad}{ad}
-\DeclareMathOperator{\Sym}{Sym}
+\nc\im{\textrm{im}}
+\nc\Tr{\textrm{Tr}}
+\nc\tr{\textrm{tr}}
+\nc\Gr{\textrm{Gr}}
+\nc\Spec{\textrm{Spec}}
+\nc\Proj{\textrm{Proj}}
+\nc\Sym{\textrm{Sym}}
 
 
-\DeclareMathOperator{\poly}{poly}
-\DeclareMathOperator{\diag}{diag}
-\DeclareMathOperator{\id}{id}
-\DeclareMathOperator{\unit}{unit}
-\DeclareMathOperator{\kerp}{ker^+\!\!}
-\DeclareMathOperator{\imp}{im^+\!\!}
-\DeclareMathOperator{\Aff}{Aff}
-\DeclareMathOperator{\lin}{lin}
-\DeclareMathOperator{\inv}{inv}
-\DeclareMathOperator{\Ass}{Ass}
-\DeclareMathOperator{\Stab}{Stab}
-\DeclareMathOperator{\Gr}{Gr}
-
-\DeclareMathOperator{\per}{per}
-\DeclareMathOperator{\qper}{qper}
-\DeclareMathOperator{\Pf}{Pf}
-\DeclareMathOperator{\Hf}{Hf}
-
-\DeclareMathOperator{\mult}{mult}
-
-\DeclareMathOperator{\Tr}{Tr}
-\DeclareMathOperator{\Trd}{Trd}
-\DeclareMathOperator{\Nm}{N}
-\DeclareMathOperator{\Nrd}{Nrd}
-\DeclareMathOperator{\nrd}{Nrd}
-
-\DeclareMathOperator{\tr}{tr}
-\DeclareMathOperator{\TrL}{Tr_L}
-\DeclareMathOperator{\TrR}{Tr_R}
-\DeclareMathOperator{\PTr}{PTr}
-\DeclareMathOperator{\PTrL}{PTr_L}
-\DeclareMathOperator{\PTrR}{PTr_R}
-\DeclareMathOperator{\Pdim}{Pdim}
-\DeclareMathOperator{\PdimL}{Pdim_L}
-\DeclareMathOperator{\PdimR}{Pdim_R}
-\DeclareMathOperator{\FPdim}{FPdim}
-\DeclareMathOperator{\FPdimL}{FPdim_L}
-\DeclareMathOperator{\FPdimR}{FPdim_R}
-
-\DeclareMathOperator{\charpoly}{{charpoly}}
-\DeclareMathOperator{\redcharpoly}{{redcharpoly}}
-\DeclareMathOperator{\minpoly}{{minpoly}}
-\DeclareMathOperator{\redminpoly}{{redminpoly}}
-
-\DeclareMathOperator{\Spec}{Spec}
-\DeclareMathOperator{\mSpec}{mSpec}
-\DeclareMathOperator{\Proj}{Proj}
-
-\DeclareMathOperator{\disc}{disc}
+%\DeclareMathOperator{\coim}{coim}
+%\DeclareMathOperator{\coker}{coker}
+%\DeclareMathOperator{\Frac}{Frac}
+%\DeclareMathOperator{\Mor}{Mor}
+%\DeclareMathOperator{\Hom}{Hom}
+%\DeclareMathOperator{\End}{End}
+%\DeclareMathOperator{\Ad}{Ad}
+%\DeclareMathOperator{\ad}{ad}
+%\DeclareMathOperator{\Sym}{Sym}
 
 
-\DeclareMathOperator{\rad}{rad}
-\DeclareMathOperator{\CSA}{CSA}
-\DeclareMathOperator{\Char}{char}
-\DeclareMathOperator{\divisor}{div}
-\DeclareMathOperator{\PDiv}{PDiv}
-\DeclareMathOperator{\KDiv}{KDiv}
-\DeclareMathOperator{\Div}{Div}
-\DeclareMathOperator{\Gal}{Gal}
-\DeclareMathOperator{\Spl}{Spl}
-\DeclareMathOperator{\Frob}{Frob}
-\DeclareMathOperator{\Art}{Art}
-\DeclareMathOperator{\Pic}{Pic}
-\DeclareMathOperator{\Picl}{Pic_L}
-\DeclareMathOperator{\Picr}{Pic_R}
-\DeclareMathOperator{\Picent}{Picent}
-\DeclareMathOperator{\Conj}{Conj}
-\DeclareMathOperator{\NS}{NS}
-\DeclareMathOperator{\Hol}{Hol}
-\DeclareMathOperator{\Fock}{Fock}
+%\DeclareMathOperator{\poly}{poly}
+%\DeclareMathOperator{\diag}{diag}
+%\DeclareMathOperator{\id}{id}
+%\DeclareMathOperator{\unit}{unit}
+%\DeclareMathOperator{\kerp}{ker^+\!\!}
+%\DeclareMathOperator{\imp}{im^+\!\!}
+%\DeclareMathOperator{\Aff}{Aff}
+%\DeclareMathOperator{\lin}{lin}
+%\DeclareMathOperator{\inv}{inv}
+%\DeclareMathOperator{\Ass}{Ass}
+%\DeclareMathOperator{\Stab}{Stab}
+%\DeclareMathOperator{\Gr}{Gr}
+
+%\DeclareMathOperator{\per}{per}
+%\DeclareMathOperator{\qper}{qper}
+%\DeclareMathOperator{\Pf}{Pf}
+%\DeclareMathOperator{\Hf}{Hf}
+
+%\DeclareMathOperator{\mult}{mult}
+
+%\DeclareMathOperator{\Trd}{Trd}
+%\DeclareMathOperator{\Nm}{N}
+%\DeclareMathOperator{\Nrd}{Nrd}
+%\DeclareMathOperator{\nrd}{Nrd}
+
+%\DeclareMathOperator{\tr}{tr}
+%\DeclareMathOperator{\TrL}{Tr_L}
+%\DeclareMathOperator{\TrR}{Tr_R}
+%\DeclareMathOperator{\PTr}{PTr}
+%\DeclareMathOperator{\PTrL}{PTr_L}
+%\DeclareMathOperator{\PTrR}{PTr_R}
+%\DeclareMathOperator{\Pdim}{Pdim}
+%\DeclareMathOperator{\PdimL}{Pdim_L}
+%\DeclareMathOperator{\PdimR}{Pdim_R}
+%\DeclareMathOperator{\FPdim}{FPdim}
+%\DeclareMathOperator{\FPdimL}{FPdim_L}
+%\DeclareMathOperator{\FPdimR}{FPdim_R}
+
+%\DeclareMathOperator{\charpoly}{{charpoly}}
+%\DeclareMathOperator{\redcharpoly}{{redcharpoly}}
+%\DeclareMathOperator{\minpoly}{{minpoly}}
+%\DeclareMathOperator{\redminpoly}{{redminpoly}}
+
+%\DeclareMathOperator{\Spec}{Spec}
+%\DeclareMathOperator{\mSpec}{mSpec}
+%\DeclareMathOperator{\Proj}{Proj}
+
+%\DeclareMathOperator{\disc}{disc}
+
+
+%\DeclareMathOperator{\rad}{rad}
+%\DeclareMathOperator{\CSA}{CSA}
+%\DeclareMathOperator{\Char}{char}
+%\DeclareMathOperator{\divisor}{div}
+%\DeclareMathOperator{\PDiv}{PDiv}
+%\DeclareMathOperator{\KDiv}{KDiv}
+%\DeclareMathOperator{\Div}{Div}
+%\DeclareMathOperator{\Gal}{Gal}
+%\DeclareMathOperator{\Spl}{Spl}
+%\DeclareMathOperator{\Frob}{Frob}
+%\DeclareMathOperator{\Art}{Art}
+%\DeclareMathOperator{\Pic}{Pic}
+%\DeclareMathOperator{\Picl}{Pic_L}
+%\DeclareMathOperator{\Picr}{Pic_R}
+%\DeclareMathOperator{\Picent}{Picent}
+%\DeclareMathOperator{\Conj}{Conj}
+%\DeclareMathOperator{\NS}{NS}
+%\DeclareMathOperator{\Hol}{Hol}
+%%\DeclareMathOperator{\Fock}{Fock}
 %\DeclareMathOperator{\deg}{deg}
-\DeclareMathOperator{\Area}{Area}
-\DeclareMathOperator{\Vol}{Vol}
-\DeclareMathOperator{\Volume}{Vol}
+%\DeclareMathOperator{\Area}{Area}
+%\DeclareMathOperator{\Vol}{Vol}
+%\DeclareMathOperator{\Volume}{Vol}
 
-\DeclareMathOperator{\ev}{ev}
-\DeclareMathOperator{\coev}{coev}
-
-
-\DeclareMathOperator{\Star}{Star}
-\DeclareMathOperator{\Link}{Link}
+%\DeclareMathOperator{\ev}{ev}
+%\DeclareMathOperator{\coev}{coev}
 
 
-\DeclareMathOperator{\Pack}{Pack}
-\DeclareMathOperator{\Cover}{Cover}
+%\DeclareMathOperator{\Star}{Star}
+%\DeclareMathOperator{\Link}{Link}
 
 
-\DeclareMathOperator{\Cone}{Cone}
-\DeclareMathOperator{\Conv}{Conv}
-\DeclareMathOperator{\nilrad}{nilrad}
-\DeclareMathOperator{\res}{res}
+%\DeclareMathOperator{\Pack}{Pack}
+%\DeclareMathOperator{\Cover}{Cover}
 
 
-\DeclareMathOperator{\sgn}{sgn}
-\DeclareMathOperator{\rank}{rank}
-
-\DeclareMathOperator{\pprod}{Prod}
-\DeclareMathOperator{\Prod}{Prod}
-\DeclareMathOperator{\Ham}{Ham}
-\DeclareMathOperator{\imm}{imm}
-\DeclareMathOperator{\Imm}{Imm}
-\DeclareMathOperator{\coef}{coef}
-\DeclareMathOperator{\Capacity}{Cap}
-\DeclareMathOperator{\Res}{Res}
-\DeclareMathOperator{\Fl}{Flag}
-\DeclareMathOperator{\Heis}{Heis}
-\DeclareMathOperator{\Lie}{Lie}
-\DeclareMathOperator{\Diff}{Diff}
-\DeclareMathOperator{\Vect}{Vect}
-\DeclareMathOperator{\pr}{pr}
-\DeclareMathOperator{\Br}{Br}
-\DeclareMathOperator{\BrW}{BW}
-\DeclareMathOperator{\Wall}{Wall}
-\DeclareMathOperator{\Witt}{Witt}
+%\DeclareMathOperator{\Cone}{Cone}
+%\DeclareMathOperator{\Conv}{Conv}
+%\DeclareMathOperator{\nilrad}{nilrad}
 %\DeclareMathOperator{\res}{res}
 
-\DeclareMathOperator{\Bun}{Bun}
-\DeclareMathOperator{\Bord}{Bord}
-\DeclareMathOperator{\Jac}{Jac}
 
-\DeclareMathOperator{\Arf}{Arf}
-\DeclareMathOperator{\Ho}{Ho}
+%\DeclareMathOperator{\sgn}{sgn}
+%\DeclareMathOperator{\rank}{rank}
+
+%\DeclareMathOperator{\pprod}{Prod}
+%\DeclareMathOperator{\Prod}{Prod}
+%\DeclareMathOperator{\Ham}{Ham}
+%\DeclareMathOperator{\imm}{imm}
+%\DeclareMathOperator{\Imm}{Imm}
+%\DeclareMathOperator{\coef}{coef}
+%\DeclareMathOperator{\Capacity}{Cap}
+%\DeclareMathOperator{\Res}{Res}
+%\DeclareMathOperator{\Fl}{Flag}
+%\DeclareMathOperator{\Heis}{Heis}
+%\DeclareMathOperator{\Lie}{Lie}
+%\DeclareMathOperator{\Diff}{Diff}
+%\DeclareMathOperator{\Vect}{Vect}
+%\DeclareMathOperator{\pr}{pr}
+%\DeclareMathOperator{\Br}{Br}
+%\DeclareMathOperator{\BrW}{BW}
+%\DeclareMathOperator{\Wall}{Wall}
+%\DeclareMathOperator{\Witt}{Witt}
+%\DeclareMathOperator{\res}{res}
+
+%\DeclareMathOperator{\Bun}{Bun}
+%\DeclareMathOperator{\Bord}{Bord}
+%\DeclareMathOperator{\Jac}{Jac}
+
+%\DeclareMathOperator{\Arf}{Arf}
+%\DeclareMathOperator{\Ho}{Ho}
 
 
 
 %\def\Wedge{{\bigwedge}}
 
-\def\emph#1{{\textbf{#1}}}
-\def\2pi{{\frac{\pi}{2}}}
-\def\bs{{\backslash}}
+%\def\emph#1{{\textbf{#1}}}
+%\def\2pi{{\frac{\pi}{2}}}
+%\def\bs{{\backslash}}
 
-\def\nord#1{\!\colon\!\!#1\colon\!\!}
+%\def\nord#1{\!\colon\!\!#1\colon\!\!}
 
-\nc{\smfrac}[2]{\mbox{$\frac{#1}{#2}$}} 
-\nc{\arr}[1]{\overrightarrow{#1}}
-\nc{\lexp}[2]{{\vphantom{#2}}^{#1}\!{#2}}
-\nc{\proj}[1]{\ket{#1}\bra{#1}}
-\nc{\braket}[2]{{\langle #1 | #2 \rangle}}
-\nc{\pd}[1]{{\frac{\partial}{\partial #1}}}
-\nc{\pdd}[2]{{\frac{\partial #1}{\partial #2}}}
-\nc{\ora}[1]{{\overrightarrow{#1}}}
-\nc{\wt}[1]{\widetilde{#1}}
-\nc{\mb}[1]{\mathbf{#1}}
+%\nc{\smfrac}[2]{\mbox{$\frac{#1}{#2}$}} 
+%\nc{\arr}[1]{\overrightarrow{#1}}
+%\nc{\lexp}[2]{{\vphantom{#2}}^{#1}\!{#2}}
+%\nc{\proj}[1]{\ket{#1}\bra{#1}}
+%\nc{\braket}[2]{{\langle #1 | #2 \rangle}}
+%\nc{\pd}[1]{{\frac{\partial}{\partial #1}}}
+%\nc{\pdd}[2]{{\frac{\partial #1}{\partial #2}}}
+%\nc{\ora}[1]{{\overrightarrow{#1}}}
+%\nc{\wt}[1]{\widetilde{#1}}
+%\nc{\mb}[1]{\mathbf{#1}}
 
 
 \def\sl{{\mathfrak{sl}}}
@@ -320,7 +313,7 @@
 \def\SVir{\mathrm{SVir}}
 
 \def\Cl{\mathrm{CL}}
-\DeclareMathOperator{\Ell}{Ell}
+\def\Ell{\mathrm{Ell}}
 \def\sq{\mathrm{sq}}
 \def\Sq{\mathrm{Sq}}
 
@@ -342,17 +335,14 @@
 \def\genus{\mathrm{Genus}}
 \def\spinorgenus{\mathrm{SpGenus}}
 
-%\def\dim{\mathrm{dim}}
-
-
-\DeclareMathOperator{\ind}{ind}
+\def\dim{\mathrm{dim}}
 
 
 \def\ideal{\CI}
 \def\variety{\CV}
 
 \def\N{\mathbb{N}}
-\DeclareMathOperator{\pt}{pt}
+\def\pt{\mathrm{pt}}
 \def\fr{\mathrm{fr}}
 
 
