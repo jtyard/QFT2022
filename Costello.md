@@ -23,7 +23,9 @@ and
 $\frac{\partial}{\partial x_{1\alpha}}= \frac{\partial}{\partial t}$.
 
 On $Q$-cohomology, 
-correlation functions are topological in $t$ while holomorphic in $z$ and $\bar z$.
+correlation functions are topological in $t$ while holomorphic in 
+$z$ and 
+$\bar z$.
 
 ## 
 
