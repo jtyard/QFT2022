@@ -2,24 +2,27 @@
 
 Usual pattern: mysterious duality between SQFTs maps to a math conjecture.  
 
-$\mathrm{Spin}(3,1) = SL_2(C)$.  Spin representation $S = \bC^2$ and vector representation $Sym^2 S$.
+$Spin(3,1) = SL_2(C)$.  Spin representation $S = C^2$ and vector representation $Sym^2 S$.
 
 
 $Q^2 = \frac 12 [Q,Q] = 0$ means it is a dirfferential.  Twisting replaces everything in the QFT by its $Q$-cohomology.
 
-H = Hilbert space of QFT, $H^*(\script{H},Q)$ is Hilbert space of twisted theory.
+H = Hilbert space of QFT, $H^*(H,Q)$ is Hilbert space of twisted theory.
 
 What kind of thing is the twisted theory?  How do loop operators in the twisted theory behave?  As $Q$ is a symmetry, correlation functions of $Q$-closed operators descend to $Q$-cohomology.
 
 For $O_1,\dotsc,O_n \in H^*$(local operators,$Q)$,
 what kind of functions are $\langle O_1(x_1)\cdots O_n(x_n)\rangle$.  Witten found that $4d$ $N=2$ theories these don't depend on position.  But in 3d some coordinate dependence is left. 
 
-$[Q,Q_2^\alpha] = \frac{\partial}{\partial x_{1\alpha}}$ so the vector fields $ \frac{\partial}{\partial x_{1\alpha}}$ are exact.  Null for 11, real for 12.  We can choose new coordinates $t,z,\bar z$ with $z = x+iy$
+$[Q,Q_2^\alpha] = \frac{\partial}{\partial x_{1\alpha}}$ so the vector fields $ \frac{\partial}{\partial x_{1\alpha}}$ are exact.  Null for 11, real for 12.  We can choose new coordinates 
+$t,z,\bar z$ with $z = x+iy$
 on $R\times C$ so that 
+
 $\frac{\partial}{\partial x_{11}}  = \frac{\partial}{\partial \bar z}$ and 
+
 $\frac{\partial}{\partial x_{1\alpha}}= \frac{\partial}{\partial t}$.
 
-On $Q$-cohomology, correlation functions re topological in $t$ while holomorphic in $z$ and $\bar z$.
+On $Q$-cohomology, correlation functions are topological in $t$ while holomorphic in $z$ and $\bar z$.
 
 ## 
 
@@ -27,7 +30,7 @@ Data of a 3d N=2 theory:
 
 - Group $G$
 - Representation $R$ of $G$
-- $G$-invariant function $W \in \scriptO(R)^G$
+- $G$-invariant function $W \in O(R)^G$
 - CS level in $H^4(BG)$
 
 We will write a Lagrangian for twisted theory based on this.  We start with pure gauge theory ($R = 0$).  HEre, fields of the twisted theory are those that do not contain the twisted component

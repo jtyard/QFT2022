@@ -112,7 +112,7 @@ Ex: B-model with target $X$
 - $Z_B(X^1) = HH_*(Coh(X)) = \Omega(X)$ (differential forms on $X$)
 
 Ex: CS Theory
-- $Z_{CS}(S1) \in E_2$-alg$(Cat_C)$ = braided monoidal categories = category of line operators of CS theory
+- $Z_{CS}(S^1) \in E_2$-alg$(Cat_C)$ = braided monoidal categories = category of line operators of CS theory
 
 
 ## From BV to TQFT
