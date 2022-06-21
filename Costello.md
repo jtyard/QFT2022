@@ -50,7 +50,8 @@ We will write a Lagrangian for twisted theory based on this.  We start with pure
  In Euclidean signature $\bar z$ is not a "real" coordinate (what kind of real??)
 
  At each timestep $t$ 
- $A|_{C\times t}$ defines a holomorphic bundle.  If we parallel transport from 
+ the restriction of $A$ to $C\times t$ defines a holomorphic bundle.  
+ If we parallel transport from 
  $t=t_0$ to 
  $t=t_1$ using $A_t$, then the first eqn tells us that this is an isomorphism of holomorphic bundles.  For example if $G = GL_n$ and $\psi \in C^n$ the vector representation then 
  $(\partial_{\bar z} + A_{\bar z})\psi(z,t_0)$.  Define $\psi(z,t)$ b parallel transport 
