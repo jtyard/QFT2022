@@ -60,7 +60,8 @@ as $(\partial_t + A_t)(\partial_{\bar z} + A_{\bar z})\psi(z,t) = 0$.
 
 ## 
 
-What happens when we introduce matter?  Let's set the superpotential $W = 0$ for now.  Fields of the twisted theory are $\phi\in \Omege^0(R\times C,R)$ with $\eta \in (dz \Omega^1(R\times C)/dz) \otimes R^*$????
+What happens when we introduce matter?  Let's set the superpotential $W = 0$ for now.  
+Fields of the twisted theory are $\phi\in \Omege^0(R\times C,R)$ with $\eta \in (dz \Omega^1(R\times C)/dz) \otimes R^*$????
 
 Lagrangian is $\int \eta d\phi + \int BF(A) + K\int A\partial A$, $\eta = \eta_{zt} + \eta_{z\bar z}$.  Funny feature:  although this is just matter, it has a gauge symmetry $\eta \to \eta + d_A \chi$, where $|chi \in dz \Omega^0(R\times C)\otimes R^*$.  Easy to see using EOMs of for A that this (what?) is the gauge symmetry of this Lagrangian.
 
