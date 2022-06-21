@@ -14,12 +14,11 @@ What kind of thing is the twisted theory?  How do loop operators in the twisted 
 For $O_1,\dotsc,O_n \in H^*$(local operators,$Q)$,
 what kind of functions are $\langle O_1(x_1)\cdots O_n(x_n)\rangle$.  Witten found that $4d$ $N=2$ theories these don't depend on position.  But in 3d some coordinate dependence is left. 
 
-$[Q,Q_2^\alpha] = \frac{\partial}{\partial x_{1\alpha}}$ so the vector fields $ \frac{\partial}{\partial x_{1\alpha}}$ are exact.  Null for 11, real for 12.  We can choose new coordinates 
+$[Q,Q_2^\alpha] = \frac{\partial}{\partial x_{1\alpha}}$ so the vector fields 
+$\frac{\partial}{\partial x_{1\alpha}}$ are exact.  Null for 11, real for 12.  We can choose new coordinates 
 $t,z,\bar z$ with $z = x+iy$
 on $R\times C$ so that 
-
 $\frac{\partial}{\partial x_{11}}  = \frac{\partial}{\partial \bar z}$ and 
-
 $\frac{\partial}{\partial x_{1\alpha}}= \frac{\partial}{\partial t}$.
 
 On $Q$-cohomology, correlation functions are topological in $t$ while holomorphic in $z$ and $\bar z$.
