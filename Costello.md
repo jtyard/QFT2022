@@ -92,9 +92,12 @@ and this becomes the affine Grassmannian $Gr_G = G((z))/G[[z]]$.
 
 B: No constraints at the boundary $t=0$.  
 $B \in dz Hol(D,g^*) - dz g^*[[z]]$ 
-(if A trivial, or better a section on the disc $D$ of $K\otimes $ the associated bundle for $g^*$.)
+(if A trivial, or better a section on the disc $D$ of 
+$K\otimes $ the associated bundle for $g^*$.)
 $B \in T^*_A Gr_G$ is now inthe cotangent bundle.  
-LEt's check the tangent space at the origin $T_0 Gr_G = z^{-1} g[[z^{-1}]]$ (it contains only the purely negative loops) and is dual to $dz g^*[[z]]$ 
+LEt's check the tangent space at the origin 
+$T_0 Gr_G = z^{-1} g[[z^{-1}]]$ (it contains only the purely negative loops) and is dual to 
+$dz g^*[[z]]$ 
 using residues.
 
 So the phase space is $T^* = Gr_G$.  

@@ -11,3 +11,26 @@ Once we have a mathematical definition of some BPS sector of the theory we an st
 -4d N=2 has webs of EM-like dualities has holomorphic topological twist -> Seiberg-Witten geometry, Hitchin systems, Kontsevich-Soibelman wall crossing, VOAs, AGT correspondence. 
 - 3d N=4 has 3d mirror symmetry -> after a topological twist expect to find a lift of homological mirror symmetry and applications to knot homology, applic and extensions of symplectic duality.  Holomorphic-topological twists of 3d N=4 gives elliptic cohomology in hyperkahler setting (explained by Dedushenko-Nekrasov...)
 - 3d N=2 doesn't have a topological twist.  It has vast big webs of dualities.  Has a HT twist.  Elliptic cohomolgy of hyperkahler spaces.  Topological invariants $T[M^3]$ of 3-manifolds 3d-3d correspondence.  Categorification of quantum invariants of 3-manifolds. 
+
+## 3d N=2
+Spinors in 3d are 2d.  SUSY algerba enerated by two $Q_\alpha, \bar Q_\alpha$, $\alpha = 1,2$.
+
+Pauli matrices are interwtiners between two copies of the spinor representation and the vector representation 
+$[Q_\alpha, \bar Q_\beta]_+ = \sigma_{\alpha,\beta}^\mu \partial_\mu$
+
+On $C_z\times R_t$ these are 
+$[Q_+, \bar Q_+]_+ = \partial_{\bar z}$, 
+$[Q_-, \bar Q_-]_+\partial_z$ and 
+$[Q_+, \bar Q_-]_+ = [Q_-, \bar Q_+]_+\partial_t$.
+
+SUSY algebra is infinitesimal symmetry of fields (embeds into Fields).  Thus acts on operators that can be thought of as functions $O_F$ of the fields.
+In particular, SUSY acts on local operators
+$Ops_{z,\bar z,t}$ = functions on the [infinite jet space](https://en.wikipedia.org/wiki/Jet_bundle#Infinite_jet_spaces) of fields at $z,\bar z, t$.  These are the basic thing that enters correlation functions. 
+
+HT twist <-> $Q = \bar Q_+$ cohomology.
+
+Upshot: Correlation functionf of Q-closed operators only depend holomorphically on $z$.
+- Q-cohomology of the bulk local operators Ops becomes a commutative (no singularities) shifted Poisson vertex algebra.  Correlation functions only depend on $z$ (not $\bar z$.)  
+$\lim_{z\to w} \phi_q(z) \phi_2(w)$
+- GIven a BC B for $R_+\times C$ (along the complex direction), get a potentially nonsingular = noncommutative vertex algebra $V_B$.  There is a bulk-boundary map and the things that commute come from the bulk.  
+$\beta_B : V \to Z(V_B)$
