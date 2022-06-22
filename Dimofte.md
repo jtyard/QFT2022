@@ -13,9 +13,9 @@ Once we have a mathematical definition of some BPS sector of the theory we an st
 - 3d N=2 doesn't have a topological twist.  It has vast big webs of dualities.  Has a HT twist.  Elliptic cohomolgy of hyperkahler spaces.  Topological invariants $T[M^3]$ of 3-manifolds 3d-3d correspondence.  Categorification of quantum invariants of 3-manifolds. 
 
 ## 3d N=2
-Spinors in 3d are 2d.  SUSY algerba enerated by two 
-$Q_\alpha, \bar Q_\alpha$ , 
-$\alpha = 1,2$.
+Spinors in 3d are 2d.  SUSY algerba enerated by two  
+
+$Q_\alpha, \bar Q_\alpha$ where $\alpha = 1,2$.
 
 Pauli matrices are interwtiners between two copies of the spinor representation and the vector representation 
 $[Q_\alpha, \bar Q_\beta]_+ = \sigma_{\alpha,\beta}^\mu \partial_\mu$
