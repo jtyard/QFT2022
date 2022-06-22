@@ -13,7 +13,9 @@ Once we have a mathematical definition of some BPS sector of the theory we an st
 - 3d N=2 doesn't have a topological twist.  It has vast big webs of dualities.  Has a HT twist.  Elliptic cohomolgy of hyperkahler spaces.  Topological invariants $T[M^3]$ of 3-manifolds 3d-3d correspondence.  Categorification of quantum invariants of 3-manifolds. 
 
 ## 3d N=2
-Spinors in 3d are 2d.  SUSY algerba enerated by two $Q_\alpha, \bar Q_\alpha$, $\alpha = 1,2$.
+Spinors in 3d are 2d.  SUSY algerba enerated by two 
+$Q_\alpha, \bar Q_\alpha$ , 
+$\alpha = 1,2$.
 
 Pauli matrices are interwtiners between two copies of the spinor representation and the vector representation 
 $[Q_\alpha, \bar Q_\beta]_+ = \sigma_{\alpha,\beta}^\mu \partial_\mu$
@@ -33,4 +35,9 @@ Upshot: Correlation functionf of Q-closed operators only depend holomorphically 
 - Q-cohomology of the bulk local operators Ops becomes a commutative (no singularities) shifted Poisson vertex algebra.  Correlation functions only depend on $z$ (not $\bar z$.)  
 $\lim_{z\to w} \phi_q(z) \phi_2(w)$
 - GIven a BC B for $R_+\times C$ (along the complex direction), get a potentially nonsingular = noncommutative vertex algebra $V_B$.  There is a bulk-boundary map and the things that commute come from the bulk.  
-$\beta_B : V \to Z(V_B)$
+$\beta_B : V \to Z(V_B)$.
+
+
+- $V$ and $V_B$ are graded by spin $Z$.  This means rotations in $C$ around the support of a particular operator.  This plays the role of a conformal grading.
+- If lucky also graded by $R$-charge corresponding to additional U(1) symmetry that extends the SUSY algebra in the sense that $deg(Q_\alpha) = -1$ and $deg(\bar Q_\alpha) = 1$.  Upshot is that we use $Q$ as a differential.  This will be a (co)homological degree. 
+- Characters 
