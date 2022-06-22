@@ -9,7 +9,13 @@ https://events.perimeterinstitute.ca/event/13/overview
 ## 3d gauge theories and elliptic stable envelopes - Okounkov
 
 - [Okounkov](Okounkov.md)
+- [Dedushenko](Dedushenko.md)
 
 ## 
 - [Yoo](Yoo.md)
 
+## A and B models in 3d and 4d
+- [Hilburn](Rozansky.md)
+
+## 
+- [Rozansky]
