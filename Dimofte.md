@@ -73,3 +73,6 @@ BV action $S = \int \Psi d' \Phi + W(\Phi)$
 
 ## BV rules
 Space of fields is  [-1]-shifted symplectic, which means functions on fields has a degree +1 Poisson bracket defined to give $\delta^{(3)}(x-x')$ on $\Phi(x)$ and $\Psi(x')$
+
+Q = {S,-}
+Q^2=0 <-> {S,S}= 0
