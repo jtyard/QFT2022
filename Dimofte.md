@@ -20,9 +20,9 @@ $Q_\alpha, \bar Q_\alpha$ where $\alpha = 1,2$.
 Pauli matrices are interwtiners between two copies of the spinor representation and the vector representation 
 $[Q_\alpha, \bar Q_\beta]_+ = \sigma_{\alpha,\beta}^\mu \partial_\mu$
 
-On $C_z\times R_t$ these are 
+On $C_z \times R_t$ these are 
 $[Q_+, \bar Q_+]_+ = \partial_{\bar z}$ and
-$[Q_-, \bar Q_-]_+\partial_z$ and 
+$[Q_-, \bar Q_-]_+= \partial_z$ and 
 $[Q_+, \bar Q_-]_+ = [Q_-, \bar Q_+]_+\partial_t$.
 
 SUSY algebra is infinitesimal symmetry of fields (embeds into Fields).  Thus acts on operators that can be thought of as functions $O_F$ of the fields.
@@ -45,4 +45,18 @@ $\beta_B : V \to Z(V_B)$.
 SHeaf of Hilbert spaces over a dual elliptic curve having to do with global symmetries.  To produce classes in elliptic cohomology, or states in the hilbert space, fix a boundary condition. Whole "elliptic cohomology stable envelope game" $E\times R$. 
 
 "Holomorphic flavor connection on an elliptic curve".
+
+- Line operators form a dg-category.  GIven lines L and L', the junction between them is in Hom(L,L').  Coposition is along the topological (z) direction.  V = End_V(I) and expect that 
+$HH_*^{spin}(C)$ should equal equivariant quantum K-theory. But this category has not yet been defined except in trivial examples.  But there are some obvious guesses.  Roughly K-theory of coherent sheaves on the loop space of the category. 
+
+Given a variety X that appears as the stable locus of the stack V/G then we expect it to be the quantum K-theory of X. 
+
+Lines can also collide with each other in the z-direction.  While you might think that would lead to singularities, it turns out that 
+
+- Given a correlation function in the presence of two line operators at z and w.  What happens as z -> w?  Is i singular or not? Turns not not as it is locally constant.  Correlations of configurations that are time independent are also independent of z.  Operators preserve 
+$\bar Q_+$ and $Q_- $.  
+Note that $[\bar Q_+,Q_-]_+ = \partial_t$. $\tilde Q = \bar Q_+ + Q_-$ squares to $\partial_t$ so can also be used as a differential. 
+Also equals $\tilde Q,\bar Q_-]_+$.  
+
+Expect meromorphic tensor category.  This is analogous to giving you harmonic forms.  GIven 3 line operators L parallel to L' joined to L'' can eb re-expressed as a sum over $(z-w)^{-n}$ times the correlation function of the single line $L\otimes L'$ joined to $L\otimes L''$ by a junction $a^{(n)}$.
 
