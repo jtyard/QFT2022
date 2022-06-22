@@ -69,6 +69,7 @@ $\Psi \in V^*[d\bar z,dt] dz^{1-j}[1]$ (shifted)
 Kevin wrote something similar $\int \eta d'\phi$ where $d' = \partial_{\bar z} dz + \partial_t dt$. Related to this lecture via 
 $\Phi = \phi + ...$, $\Psi = \psi + \eta^{(1)} + ...$
 
-BV action $S = \int \Psi d' \Phi + W(\Phi$ 
+BV action $S = \int \Psi d' \Phi + W(\Phi)$ 
 
-Some rules and how it relates to things in physics.  
+## BV rules
+Space of fields is  [-1]-shifted symplectic, which means functions on fields has a degree +1 Poisson bracket defined to give $\delta^{(3)}(x-x')$ on $\Phi(x)$ and $\Psi(x')$
