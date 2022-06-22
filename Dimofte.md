@@ -21,7 +21,7 @@ Pauli matrices are interwtiners between two copies of the spinor representation 
 $[Q_\alpha, \bar Q_\beta]_+ = \sigma_{\alpha,\beta}^\mu \partial_\mu$
 
 On $C_z\times R_t$ these are 
-$[Q_+, \bar Q_+]_+ = \partial_{\bar z}$, 
+$[Q_+, \bar Q_+]_+ = \partial_{\bar z}$ and
 $[Q_-, \bar Q_-]_+\partial_z$ and 
 $[Q_+, \bar Q_-]_+ = [Q_-, \bar Q_+]_+\partial_t$.
 
@@ -40,4 +40,9 @@ $\beta_B : V \to Z(V_B)$.
 
 - $V$ and $V_B$ are graded by spin $Z$.  This means rotations in $C$ around the support of a particular operator.  This plays the role of a conformal grading.
 - If lucky also graded by $R$-charge corresponding to additional U(1) symmetry that extends the SUSY algebra in the sense that $deg(Q_\alpha) = -1$ and $deg(\bar Q_\alpha) = 1$.  Upshot is that we use $Q$ as a differential.  This will be a (co)homological degree. 
-- Characters 
+- Characters $\chi(V) = Tr_V(-1)^R q^J$ "3d index"
+- $\chi(V_B) = \Tr_{_B} (-1)^R q^J$ "3d half-index".  Intimimately related to the sort of theta functions that show up in elliptic cohomology.  
+SHeaf of Hilbert spaces over a dual elliptic curve having to do with global symmetries.  To produce classes in elliptic cohomology, or states in the hilbert space, fix a boundary condition. Whole "elliptic cohomology stable envelope game" $E\times R$. 
+
+"Holomorphic flavor connection on an elliptic curve".
+
