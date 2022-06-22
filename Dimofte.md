@@ -60,3 +60,15 @@ Also equals $\tilde Q,\bar Q_-]_+$.
 
 Expect meromorphic tensor category.  This is analogous to giving you harmonic forms.  GIven 3 line operators L parallel to L' joined to L'' can eb re-expressed as a sum over $(z-w)^{-n}$ times the correlation function of the single line $L\otimes L'$ joined to $L\otimes L''$ by a junction $a^{(n)}$.
 
+## Examples from 3d N=2 gauge theory
+
+data: $G$ reductive, $V$ complex , W:V/G -> C, $k\in H^4(BG)$.
+
+Or can ignore $G$ for easier example.  Chiral multiplets valued in V.  Twisted BV formalism: $\Phi \in V[d\bar z, dt] dz^j$
+$\Psi \in V^*[d\bar z,dt] dz^{1-j}[1]$ (shifted)
+Kevin wrote something similar $\int \eta d'\phi$ where $d' = \partial_{\bar z} dz + \partial_t dt$. Related to this lecture via 
+$\Phi = \phi + ...$, $\Psi = \psi + \eta^{(1)} + ...$
+
+BV action $S = \int \Psi d' \Phi + W(\Phi$ 
+
+Some rules and how it relates to things in physics.  
