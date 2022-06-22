@@ -1,8 +1,9 @@
 # QFT and stable envelopes II 
 
-[Dedushenko-Nekrasov]()
-[]()
-[]()
+[Dedushenko-Nekrasov](https://arxiv.org/abs/2109.10941)
+[Bullimore-Zhang](https://arxiv.org/abs/2109.10907)
+[Aganagic-Okounkov](https://arxiv.org/abs/1604.00423)
+
 
 QFT in d=1,2,3
 
