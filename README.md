@@ -17,5 +17,5 @@ https://events.perimeterinstitute.ca/event/13/overview
 ## A and B models in 3d and 4d
 - [Hilburn](Hilburn.md)
 
-## 
+## Knot homology
 - [Rozansky](Rozansky.md)
