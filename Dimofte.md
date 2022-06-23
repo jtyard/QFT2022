@@ -18,6 +18,7 @@ Spinors in 3d are 2d.  SUSY algerba enerated by two
 $Q_\alpha, \bar Q_\alpha$ where $\alpha = 1$ and $2$.
 
 Pauli matrices are interwtiners between two copies of the spinor representation and the vector representation 
+
 $$[Q_\alpha, \bar Q_\beta]_+ = \sigma_{\alpha\beta}^\mu \partial_\mu$$
 
 On $C_z \times R_t$ these are 
