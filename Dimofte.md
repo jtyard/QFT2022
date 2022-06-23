@@ -22,8 +22,11 @@ Pauli matrices are interwtiners between two copies of the spinor representation 
 $$[Q_\alpha, \bar Q_\beta]_+ = \sigma_{\alpha\beta}^\mu \partial_\mu$$
 
 On $C_z \times R_t$ these are 
+
 $[Q_+, \bar Q_+]_+ = \partial_{\bar z}$ and
+
 $[Q_-, \bar Q_-]_+= \partial_z$ and 
+
 $[Q_+, \bar Q_-]_+ = [Q_-, \bar Q_+]_+\partial_t$.
 
 SUSY algebra is infinitesimal symmetry of fields (embeds into Fields).  Thus acts on operators that can be thought of as functions $O_F$ of the fields.
