@@ -15,10 +15,10 @@ Once we have a mathematical definition of some BPS sector of the theory we an st
 ## 3d N=2
 Spinors in 3d are 2d.  SUSY algerba enerated by two  
 
-$Q_\alpha, \bar Q_\alpha$ where $\alpha = 1,2$.
+$Q_\alpha, \bar Q_\alpha$ where $\alpha = 1$ and $2$.
 
 Pauli matrices are interwtiners between two copies of the spinor representation and the vector representation 
-$[Q_\alpha, \bar Q_\beta]_+ = \sigma_{\alpha\beta}^\mu \partial_\mu$
+$$[Q_\alpha, \bar Q_\beta]_+ = \sigma_{\alpha\beta}^\mu \partial_\mu$$
 
 On $C_z \times R_t$ these are 
 $[Q_+, \bar Q_+]_+ = \partial_{\bar z}$ and
