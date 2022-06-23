@@ -12,6 +12,7 @@ https://events.perimeterinstitute.ca/event/13/overview
 - [Okounkov](Okounkov.md)
 - [Dedushenko](Dedushenko.md)
 - [Okounkov](Okounkov2.md)
+- [Dedushenk](Dedushenko2.md)
 
 ## 
 - [Yoo](Yoo.md)
