@@ -27,7 +27,7 @@ $$[Q_+, \bar Q_+]_+ = \partial_{\bar{z}} $$
 
 $$[Q_-, \bar Q_-]_+ = \partial_z$$
 
-$$[Q_+, \bar Q_-]_+ = [Q_-, \bar Q_+]_+\partial_t$$.
+$$[Q_+, \bar Q_-]_+ = [Q_-, \bar Q_+]_+ = \partial_t$$.
 
 SUSY algebra is infinitesimal symmetry of fields (embeds into Fields).  Thus acts on operators that can be thought of as functions $O_F$ of the fields.
 In particular, SUSY acts on local operators
