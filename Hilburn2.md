@@ -28,4 +28,9 @@ Example for a toric variety:  Section of the moment map polarization line bundle
 Many more exaples of Gaiotto-Witten S-duality conjecture studied in work of [Ben-Zvi](https://www.youtube.com/watch?v=exf7wsHjPbU), [Sakellaridis](
 https://math.mit.edu/~drew/MITNT/SakellaridisSlides.pdf), [Venkatesh]().
 
+https://www.math.columbia.edu/~woit/wordpress/?p=12207
+
+https://pirsa.org/21090015
+
+
 
