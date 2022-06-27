@@ -23,7 +23,7 @@ $$[Q_\alpha, \bar Q_\beta]_+ = \sigma_{\alpha\beta}^\mu \partial_\mu$$
 
 On $C_z \times R_t$ these are 
 
-$$[Q_+, \bar Q_+]_+ = \partial_{\bar{z}} $$ 
+$$[Q_+, \bar Q_+]_+ = \partial_{\bar z} $$ 
 
 $$[Q_-, \bar Q_-]_+ = \partial_z $$
 
