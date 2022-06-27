@@ -27,7 +27,7 @@ $$[Q_+, \bar Q_-]_+ = [Q_-, \bar Q_+]_+ = \partial_t$$.
 
 $$[Q_-, \bar Q_-]_+ = \partial_z $$
 
-$$[Q_+, \bar Q_+]_+ = \partial_{\bar z} $$ 
+$$[Q_+, \bar Q_+]_+ = \partial__{\bar z} $$ 
 
 
 
