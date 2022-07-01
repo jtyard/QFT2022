@@ -28,29 +28,21 @@ https://events.perimeterinstitute.ca/event/13/overview
 - [Rozansky](Rozansky2.md)
 
 ## 
-
 - [Fei Yan](Yan.md)
 
 # Conference 
 
 ## Monday 
-
 - [Teschner](Teschner.md)
-
 - [Fei Yan](Yan2.md)
 
 ## Tuesday 
-
--[Gaiotto](Gaiotto2.md)
-
--[Gammage](Gammage.md)
+- [Gaiotto](Gaiotto2.md)
+- [Gammage](Gammage.md)
 
 ## Wednesday
 
 ## Thursday
-
--[BenZvi](BenZvi.md)
-
--[Braverman](Braverman.md)
-
--[Discussion](ThursdayDiscussion.md)
+- [BenZvi](BenZvi.md)
+- [Braverman](Braverman.md)
+- [Discussion](ThursdayDiscussion.md)
