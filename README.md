@@ -37,3 +37,10 @@ https://events.perimeterinstitute.ca/event/13/overview
 ## Tuesday 
 -[Gaiotto](Gaiotto2.md)
 -[Gammage](Gammage.md)
+
+## Wednesday
+
+## Thursday
+-[BenZvi](BenZvi.md)
+-[Braverman](Braverman.md)
+-[Discussion](ThursdayDiscussion.md)
