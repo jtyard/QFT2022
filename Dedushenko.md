@@ -75,7 +75,10 @@ Make things equivariant...
 
 Now we do some Morse functions (missed a bunch here)
 
-Exercise $X = \mathbb{C}$ acted on by $U(1)$.  $f = m|z|^2/2$
+Exercise $X = \mathbb{C}$ acted on by 
+$U(1)$.  
+
+$f = m|z|^2/2$
 
 A harder example with $X = \mathbb{C}^2$ and the morse functionif $f = (|z_1|^2 - |z_2|^2)/2$.  
 
@@ -84,7 +87,8 @@ $\Omega$ supported on the attractor points Attr(0).
 
 ## 
 
-X = hyperkahler.  Has a moment map $ \mu_R^f $ for the global (flavor) symmetry $A$.
+X = hyperkahler.  Has a moment map $\mu_R^f$ 
+for the global (flavor) symmetry $A$.
 Morse function $f = \langle m(t),\mu_R^f\rangle$
 
 $T = A\times U(1)_\hbar$
