@@ -72,11 +72,11 @@ Make things equivariant...
 
 Now we do some Morse functions (missed a bunch here)
 
-Exercise $X = C$ acted on by $U(1)$.  $f = m|z|^2/2$
+Exercise $X = \mathbb{C}$ acted on by $U(1)$.  $f = m|z|^2/2$
 
-A harder example with $X = C \times C$ and the morse functionif $f = (|z^1|^2 - |z_2|^2)/2$.  
+A harder example with $X = \mathbb{C}^2$ and the morse functionif $f = (|z^1|^2 - |z_2|^2)/2$.  
 
-As $m \to \pm \infty$, $\Omega$ supported on $Attr(0)$ (the attractor points).
+As $m \to \pm \infty$, $\Omega$ supported on Attr(0) (the attractor points).
 
 ## 
 
