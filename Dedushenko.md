@@ -93,6 +93,6 @@ Morse function $f = \langle m(t),\mu_R^f\rangle$
 
 $T = A\times U(1)_\hbar$
 
-T-fixed points $= Crit(f)$
+T-fixed points = Crit(f)
 
 Conjecture: $\Omega_p^{(m)} = e^f \Psi_p(m) 
