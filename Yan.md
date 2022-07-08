@@ -2,11 +2,11 @@
 
 Related to skein theory and inkn invariants, HItchin systems and Exact WKB for ODEs.  
 
-THis talk more about Hitchin systems, bt a talk on MOnday foxues on the other two.  
+This talk more about Hitchin systems.  Talk on Monday focuses on the other two.  
 
-4d N=2 has 8 supercharges.  Vector multiplet (oneway arrows?) and hypermultiplet (leftrightoarrow?)
+4d N=2 has 8 supercharges.  Vector multiplet (oneway arrows?) and hypermultiplet (leftrightarrow?)
 
-Katz-Klemm-Vafa, Gaiotto, GMN on such theories that do not admit a Lagranian decrip ion .  The origin is geometric. 
+Katz-Klemm-Vafa, Gaiotto, GMN on such theories that do not admit a Lagranian decription.  The origin is geometric. 
 
 [Tachikawa](https://arxiv.org/abs/1312.2684)
 
