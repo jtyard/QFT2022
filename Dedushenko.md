@@ -24,7 +24,7 @@ $Q^\dagger = d^\* $
 
 $H = \frac 12 \nabla = dd^\* + d^\* d$.
 
-KEr H is the psace of SUSY facua = ker Q can ker Q^dagger = H_{jK}(X).  BOring??
+Ker(H) is the space of SUSY vacua = $\mathrm{ker} Q \cap \mathrm{ker} Q^\dagger = H_{jK}(X).$  Boring??
 
 ## 
 f is a Morse function on X [Witten '82]()
