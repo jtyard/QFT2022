@@ -19,7 +19,7 @@ $H = \Omega(X)$, norm is
 $\langle \psi_1,\psi_2\rangle = \int_X * \bar \psi_1 \wedge \psi_2$
 
 $Q = d$  
-$Q^\dagger = d^*$
+$Q^\dagger = d^{*}$
 $H = \frac 12 \nabla = dd^* + d^* d$.
 
 KEr H is the psace of SUSY facua = ker Q can ker Q^dagger = H_{jK}(X).  BOring??
