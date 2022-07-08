@@ -2,15 +2,17 @@
 
 w/ Sakellardis and Venkatesh
 
+[Ben Zvi March 2020 notes on relative Langlands by Van Dyke](VanDykeBenZvi.pdf)
+
 What is the spectral version of periods of automorphic forms?  Will propose an answer inspired by S-duality.
 
-Givenm a holomorphic moduilar form, can compute its period integrals. N-period measures the constant term a0 so it tells you if it's a cusp form.  (N,psi)-period or Whittaker period measures the linear term a1.  The "T-period" integrates the form along the vertical axis (maybe against a character) giving the Mellin transform i.e. the Dirichlet series associated to the form.  
+Given a holomorphic modular form, can compute its period integrals. N-period measures the constant term a0 so it tells you if it's a cusp form.  (N,psi)-period or Whittaker period measures the linear term a1.  The "T-period" integrates the form along the vertical axis (maybe against a character) giving the Mellin transform i.e. the Dirichlet series associated to the form.  
 
-Langlands correspondence takes Hecke eigenform to a 2d Galois rep.  a0 = 0 means rho is irreducible.  a1 corresponds to constant function 1  (Whittaker normalization).  Dirichlet series gives the L-function 
-$$L(\rho,s) = \prod det(1-p^{-s} \rho(Fr_p)).$$  
-We're just gonna look at the value at s=0 in this talk.  $L(\rho = id,s) = \zeta(s)$.  Then $\zeta(0) = -1/2$ (number of positive integers).  If you can write your L-function as the period of a modular form then you get a lot of other properties.  
+Langlands correspondence takes Hecke eigenform to a 2d Galois representation $\rho$.  $a_0 = 0$ means $\rho$ is irreducible.  $a_1$ corresponds to constant function 1  (Whittaker normalization).  Dirichlet series gives the L-function 
+$$L(\rho,s) = \prod \det(1-p^{-s} \rho(\mathrm{Fr}_p)).$$  
+This talk focuses on the value at $s=0$.  $L(\rho = id,s) = \zeta(s)$.  Then $\zeta(0) = -1/2$ (number of positive integers).  If you can write your L-function as the period of a modular form then you get a lot of other properties.  
 
-What is the science behind matching of L-function and periods?  Answer: BZ-S-V periods are boundary conditions for the 4d A-model A_G.  L-functions are boundary condition for the 4d B-model B_{G^v}.  Matching the hamiltonian invariants between the two groups.
+What is the science behind matching of L-function and periods?  Answer: BZ-S-V periods are boundary conditions for the 4d A-model A_G.  L-functions are boundary condition for the 4d B-model $B_{G^\vee}$.  Matching the Hamiltonian invariants between the two groups.
 
 Langlands d'apres' Kapustin-Witten.  G = complex reductive group and its Langlands dual G^v.  
 
@@ -22,7 +24,7 @@ Key features: matches action of defect operators on two sides: local, line, surf
 
 - codim 4: Local operators H^*(BG), <-> O(G^*[2]/G)
 - codim 3: Line operators (main thing) 't Hooft <-> Wilson (matching of Hecke operators)
-- codim 2: Surface operators adding ramification (ramified version of the Langlands corresponce) so now Bun_G replaced by bundles with level struicture.  <-> local systems + singularities
+- codim 2: Surface operators adding ramification (ramified version of the Langlands corresponce) so now Bun_G replaced by bundles with level structure.  <-> local systems + singularities
 
 
 ## 
