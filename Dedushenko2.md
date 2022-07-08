@@ -4,9 +4,9 @@
 
 3d N+1 is SQM into XX = Maps(E_tau,X) 
 
-Q^2 = D_{\bar z}
+$Q^2 = D_{\bar z}$
 
-QQ = \bar Q_+ + Q_+ (first one is the one used in the HT twist)
+$\mathcal{Q} = \bar Q_+ + Q_+$ (first one is the one used in the HT twist)
 
 
 Missed a bunch. 
