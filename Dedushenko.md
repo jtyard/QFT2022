@@ -95,4 +95,4 @@ $T = A\times U(1)_\hbar$
 
 T-fixed points $= Crit(f)$
 
-Conjecture: $\Omega_p^{(m)} = e^f \\Psi_p(m) 
+Conjecture: $\Omega_p^{(m)} = e^f \Psi_p(m) 
