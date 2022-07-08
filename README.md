@@ -14,7 +14,7 @@ My raw notes from PI's 2022 [QFT for Mathematians](https://events.perimeterinsti
 - [Okounkov](Okounkov.md)
 - [Dedushenko](Dedushenko.md)
 - [Okounkov](Okounkov2.md)
-- [Dedushenk](Dedushenko2.md)
+- [Dedushenko](Dedushenko2.md)
 
 ## 
 
