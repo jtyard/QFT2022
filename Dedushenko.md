@@ -29,7 +29,7 @@ Ker(H) is the space of SUSY vacua = $\mathrm{ker} Q \cap \mathrm{ker} Q^\dagger 
 ## 
 f is a Morse function on X [Witten '82](https://projecteuclid.org/journals/journal-of-differential-geometry/volume-17/issue-4/Supersymmetry-and-Morse-theory/10.4310/jdg/1214437492.full)
 
-$Q = d_f = e^{-f de^f = d + df\lambda$
+$Q = d_f = e^{-f} de^f = d + df\lambda$
 
 $Q^\dagger = d^* + \int \nabla f$
 
