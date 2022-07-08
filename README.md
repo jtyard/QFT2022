@@ -1,6 +1,8 @@
 # 2022 PI QFT for mathematicians
 
-https://events.perimeterinstitute.ca/event/13/overview
+
+
+My raw notes from PI's 2022 [QFT for Mathematians](https://events.perimeterinstitute.ca/event/13/overview) program. Github's latex markdown is less usable than I'd hoped.  
 
 ## 3d theories and twists 
 
