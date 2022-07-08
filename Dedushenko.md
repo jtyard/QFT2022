@@ -22,7 +22,7 @@ $Q = d$
 
 $Q^\dagger = d^\*$
 
-$H = \frac 12 \nabla = dd^* + d^* d$.
+$H = \frac 12 \nabla = dd^\* + d^\* d$.
 
 KEr H is the psace of SUSY facua = ker Q can ker Q^dagger = H_{jK}(X).  BOring??
 
