@@ -6,7 +6,9 @@ What is the spectral version of periods of automorphic forms?  Will propose an a
 
 Givenm a holomorphic moduilar form, can compute its period integrals. N-period measures the constant term a0 so it tells you if it's a cusp form.  (N,psi)-period or Whittaker period measures the linear term a1.  The "T-period" integrates the form along the vertical axis (maybe against a character) giving the Mellin transform i.e. the Dirichlet series associated to the form.  
 
-Langlands correspondence takes Hecke eigenform to a 2d Galois rep.  a0 = 0 means rho is irreducible.  a1 corresponds to constant function 1  (Whittaker normalization).  Dirichlet series gives the L-function L(rho,s) = prod det(1-p^{-s} rho(Fr_p)).  We're just gonna look at the value at s=0 in this talk.  L(rho = 0,s) = zeta(s).  Then zeta(0) = -1/2 (number of positive integers).  If you can write your L-function as the period of a modular form then you get a lot of other properties.  
+Langlands correspondence takes Hecke eigenform to a 2d Galois rep.  a0 = 0 means rho is irreducible.  a1 corresponds to constant function 1  (Whittaker normalization).  Dirichlet series gives the L-function 
+$$L(\rho,s) = \prod det(1-p^{-s} \rho(Fr_p)).$$  
+We're just gonna look at the value at s=0 in this talk.  $L(\rho = id,s) = \zeta(s)$.  Then $\zeta(0) = -1/2$ (number of positive integers).  If you can write your L-function as the period of a modular form then you get a lot of other properties.  
 
 What is the science behind matching of L-function and periods?  Answer: BZ-S-V periods are boundary conditions for the 4d A-model A_G.  L-functions are boundary condition for the 4d B-model B_{G^v}.  Matching the hamiltonian invariants between the two groups.
 
@@ -14,13 +16,13 @@ Langlands d'apres' Kapustin-Witten.  G = complex reductive group and its Langlan
 
 A_G(Sig) = Shv(Bun_G(Sig)) ~ D-mod on Bun_G~ Fuk(T^*(Bun(Hitchin)))
 
-B_{G^v}(Sig) = QC(Loc_G^v(Sig)) (ind-coherent)
+B_Gv(Sig) = QC(Loc_Gv(Sig)) (ind-coherent)
 
 Key features: matches action of defect operators on two sides: local, line, surface operators (codim 4,3,2).
 
-- Local operators H^*(BG), <-> O(G^*[2]/G)
-- Line operators (main thing) 't Hooft <-> Wilson (matching of Hecke operators)
-- Surface operators adding ramification (ramified version of the Langlands corresponce)  So now Bun_G replace with bundles with level struicture.  <-> local systems + singularities
+- codim 4: Local operators H^*(BG), <-> O(G^*[2]/G)
+- codim 3: Line operators (main thing) 't Hooft <-> Wilson (matching of Hecke operators)
+- codim 2: Surface operators adding ramification (ramified version of the Langlands corresponce) so now Bun_G replaced by bundles with level struicture.  <-> local systems + singularities
 
 
 ## 
@@ -28,20 +30,20 @@ Richest story: codim 1
 
 Gaiotto-Witten, Hilburn-Yoo.  Boundary conditions and interfaces - i.e. BC for a product group can be seen as an interface between them.
 
-Examples come from quantizations of hyperkahler G/G^v spaces.  3d A/B model coupled to 4d.  
+Examples come from quantizations of hyperkahler G/Gv spaces.  3d A/B model coupled to 4d.  
 
 Hamiltonian action of G on M holomorphic symplectic, graded Hamiltonian action on g*.  Leads to Gaiotto Lagrangian:
 
 Bun_G,M = jets of G-bundles + 1-form valued section 
 
-Image of Bun_G,M -> T*Bun_G defines Lagrangian in the moduli space of Higgs bundles and underlies a BAA brane in A_G(Sig).  Spectral Gaiotto Lagrangian: BBB brane on Loc_Gv 
+Image of Bun_G,M -> T^*Bun_G defines Lagrangian in the moduli space of Higgs bundles and underlies a BAA brane in A_G(Sig).  Spectral Gaiotto Lagrangian: BBB brane on Loc_Gv 
 Loc_Gv,Mv = Gv-loc systems + flat section of Mv-bundle.
 
-Loc_Gv,Mv -> T*[1]Loc_Gv (quantization is coherent sheav on Loc_Gv)
+Loc_Gv,Mv -> T*[1]Loc_Gv (quantization is coherent sheaf on Loc_Gv)
 
-Simplest example: O_Loc, Mv = pt (Neumann) i.e. Gamma_Loc(-1) (functor of taking global sections of cohere sheaves) <-> Hitchin section of the Hitchin integrable system = Whittaker sheaf in the GL literature, or has to do with principle Nahm pole BC in Witten
+Simplest example: O_Loc, Mv = pt (Neumann) i.e. Gamma_Loc(-1) (functor of taking global sections of coherent sheaves) <-> Hitchin section of the Hitchin integrable system = Whittaker sheaf in the GL literature, or has to do with principle Nahm pole BC in Witten
 
-M = T*G//_psi N for a nondegenerate character psi of the group of upper triangular matrices. 
+M = T^*G//_psi N for a nondegenerate character psi of the group of upper triangular matrices. 
 
 Davide had an insight: move to a trivial point in the moduli space where the gauge group breaks down to a torus.  Then you have the abelian theory on one side and the original one on the other.  N is not a brane: it is just a displacement of the D3-branes.
 
@@ -49,11 +51,11 @@ Davide had an insight: move to a trivial point in the moduli space where the gau
 
 How to match the story with number theory:
 
-Dictionary: MMMR  Mazur, Mumford, Morshida,... ?? Knots and primes dictionary.
+Dictionary: Mazur, Mumford, Morishita,... ?? Knots and primes dictionary.
 
 F = global field.  Think of Spec O_F as a noncompact (because of non-archimedean places) unoriented 3-manifold. Local fields are 2-manifolds.  
 
-G/F reductive group.  $Bun_G = [G]_F$  really need to fix a level structure along a linik in your 3-manifold.  What is Bun_G?  Not an algebraic stack.  
+G/F reductive group.  $Bun_G = [G]_F$  really need to fix a level structure along a link in your 3-manifold.  What is Bun_G?  Not an algebraic stack.  
 
 Finite field: Bun_G(Sig)(F_q)
 Number field: arithmetic locally symmetric space 
@@ -64,9 +66,9 @@ A_G: Study C-linearization of Bun_G (e.g. H*(something))
 
 Loc_Gv: character stack of Galois reps into Gv/C.
 
-B_Gv: Algebraic functions/distribuitions on the character variety Loc_Gv
+B_Gv: Algebraic functions/distributions on the character variety Loc_Gv
 
-Langlands says A_G(*F) simeq B_Vv(F) as modules over Hecke algebras.  Automorphic forms live on the A-side.  
+Langlands says A_G(*F) simeq B_Gv(F) as modules over Hecke algebras.  Automorphic forms live on the A-side.  
 
 Local Langlands: K a local field.  G(K)-reps a subcategory of A_G(K).  B-side??
 
@@ -116,3 +118,10 @@ Geometrically have Shv(LX/LGv) simeq QC(Mv)..
 Euler products: local -> global
 Factorization homology: local -> global 
 Trace of frobenius maps factorization homology to Euler products.  Can also put the Theta series operator into the TFT framework.  Not just coincidences but *science*.  
+
+
+[MIT Quantization](https://math.mit.edu/lg/2020/May12_David_Ben_Zvi.pdf)
+
+[WHCGP](http://web.math.ucsb.edu/~drm/WHCGP/BZSVcolloquiumNoPauses.pdf)
+
+[Gaiotto-Witten](https://arxiv.org/abs/0807.3720)
