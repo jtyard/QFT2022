@@ -62,7 +62,7 @@ Redefine $\Omega = e^f \psi$
 New supercharges $\tilde Q = e^f Q e^{-f} = d$
 $\tilde G = e^f Q^\dagger e^{-f} = d^* + 2i\nabla_f$.
 
-New Hamiltonian $\tilde H = $ half the commutator $\tilde Q$ and $\tilde H$.
+New Hamiltonian $\tilde H$ equals half the commutator of $\tilde Q$ and $\tilde H$.
 
 ## 
 
