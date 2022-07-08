@@ -14,7 +14,7 @@ Elliptic cohomology is built out of sections of line bundles on sheaves.  But th
 
 
 
-Degree of a line bundle on $E^n$ is not a number but a symmetric integer matrix in $Sym^2 Z^n$.
+Degree of a line bundle on $E^n$ is not a number but a symmetric integer matrix in $Sym^2 \mathbb{Z}^n$.
 
 On Thursday he will talk about Kahler varieties.  There are 2 kinds of hyperplane arrangements exchanged by mirror symmetry.  THe poles in (??) regarding hyperplane arrangements turns out to be where the some line bundle is trivial.
 
