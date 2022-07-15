@@ -2,7 +2,15 @@
 
 w/ Sakellardis and Venkatesh
 
-[Ben Zvi March 2020 notes on relative Langlands by Van Dyke](VanDykeBenZvi.pdf)
+[Van Dyke notes 2020](https://www.msri.org/workshops/918/schedules/28233/documents/50487/assets/88599)
+
+[Van Dyke notes 2021](https://web.ma.utexas.edu/users/vandyke/notes/langlands_sp21/langlands.pdf)
+
+[MIT Quantization](https://math.mit.edu/lg/2020/May12_David_Ben_Zvi.pdf)
+
+[WHCGP](https://web.math.ucsb.edu/~drm/WHCGP/BZSVcolloquiumNoPauses.pdf)
+
+[Gaiotto-Witten](https://arxiv.org/abs/0807.3720)
 
 What is the spectral version of periods of automorphic forms?  Will propose an answer inspired by S-duality.
 
@@ -122,8 +130,3 @@ Factorization homology: local -> global
 Trace of frobenius maps factorization homology to Euler products.  Can also put the Theta series operator into the TFT framework.  Not just coincidences but *science*.  
 
 
-[MIT Quantization](https://math.mit.edu/lg/2020/May12_David_Ben_Zvi.pdf)
-
-[WHCGP](http://web.math.ucsb.edu/~drm/WHCGP/BZSVcolloquiumNoPauses.pdf)
-
-[Gaiotto-Witten](https://arxiv.org/abs/0807.3720)
